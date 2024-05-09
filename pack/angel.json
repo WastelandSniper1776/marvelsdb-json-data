@@ -113,6 +113,7 @@
         "cost": 3,
         "deck_limit": 2,
         "faction_code": "hero",
+        "flavor": "Remarkable plumage",
         "illustrator": "Rod Fernandes & Pasquale Qualano",
         "name": "Adaptive Plumage",
         "octgn_id": "cbfcb70f-a855-4068-b02f-816804042003",
